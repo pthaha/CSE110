@@ -3,9 +3,9 @@ go to bottom? click
 [here](https://github.com/pthaha/CSE110/blob/add-index.md/index.md#small-heading)  
 go to READ_ME? click [here](README.md)  
 Before reading...  
-- [] I have read the [user agreement](https://www.youtube.com/watch?v=V-_O7nl0Ii0)  
+- [ ] I have read the [user agreement](https://www.youtube.com/watch?v=V-_O7nl0Ii0)  
 - [x] I am over 18 years old
-- [] I can breathe with my tongues out
+- [ ] I can breathe with my tongues out
 <pre> 
     
 	  
