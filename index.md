@@ -1,4 +1,6 @@
 ![PepoG](/Users/peterlu/Downloads/PepoG.png)
+go to bottom? click
+[here](https://github.com/pthaha/CSE110/blob/add-index.md/index.md#small-heading)
 # **About me**
 ## who is this guy
 Hi! my name is Peter Lu, currently a junior studying Computer Science with a
