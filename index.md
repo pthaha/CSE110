@@ -5,10 +5,10 @@ Hi! my name is Peter Lu, currently a junior studying Computer Science with a
 specialization in *Bioinformatics*
 ## hobbies
 - bouldering
-- gaming
+- gaming \n
+	favorite quote? > No cost too great. No mind to think. No will to break. No voice to cry suffering...
 - ~~reading~~
-- cooking
-	Here's my recipe to my favorite food:
+- cooking, here's my recipe to my favorite food:
 	1. cook rice
 	2. cook curry
 	3. combine curry and rice
