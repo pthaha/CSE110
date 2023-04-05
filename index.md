@@ -1,9 +1,9 @@
 ![PepoG](/Users/peterlu/Downloads/PepoG.png)
-#**About me**
-##who is this guy
+# **About me**
+## who is this guy
 Hi! my name is Peter Lu, currently a junior studying Computer Science with a
 specialization in *Bioinformatics*
-##hobbies
+## hobbies
 -bouldering
 -gaming
 -~~reading~~
@@ -14,5 +14,5 @@ specialization in *Bioinformatics*
 	3. combine curry and rice
 	4. et Voila, curry rice!
 
-###Small heading
+### Small heading
 
