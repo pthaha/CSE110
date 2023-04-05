@@ -2,6 +2,38 @@
 go to bottom? click
 [here](https://github.com/pthaha/CSE110/blob/add-index.md/index.md#small-heading)  
 go to READ_ME? click [here](README.md)  
+Before reading... have you:  
+- [] read the [user agreement](https://www.youtube.com/watch?v=V-_O7nl0Ii0)?  
+  
+    
+	  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bruh hasn't checked box why u readin  
 # **About me**
 ## who is this guy
 Hi! my name is Peter Lu, currently a junior studying Computer Science with a
