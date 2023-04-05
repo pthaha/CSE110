@@ -4,7 +4,7 @@ go to bottom? click
 go to READ_ME? click [here](README.md)  
 Before reading... have you:  
 - [] read the [user agreement](https://www.youtube.com/watch?v=V-_O7nl0Ii0)?  
-  
+<pre> 
     
 	  
   
@@ -32,7 +32,7 @@ Before reading... have you:
 
 
 
-
+</pre>
 Bruh hasn't checked box why u readin  
 # **About me**
 ## who is this guy
