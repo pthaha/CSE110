@@ -35,7 +35,7 @@ Before reading...
 
 
 </pre>
-Bruh hasn't checked box why u readin  
+Bruh is reading without checking all the boxes. SMH my head
 # **About me**
 ## who is this guy
 Hi! my name is Peter Lu, currently a junior studying Computer Science with a
