@@ -8,6 +8,13 @@ specialization in *Bioinformatics*
 - gaming 
 	- favorite quote? 
 		- > No cost too great. No mind to think. No will to break. No voice to cry suffering...
+- code
+	- favorite code?
+		'''
+		import pandas as np
+		import numpy as plt
+		from matplotlib import pyplot as pd
+		'''
 - ~~reading~~
 - cooking, here's my recipe to my favorite food:
 	1. cook rice
