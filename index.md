@@ -20,7 +20,8 @@ specialization in *Bioinformatics*
 	1. cook rice
 	2. cook curry
 	3. combine curry and rice
-	4. et Voila, curry rice!
+	4. et Voila, [curry
+	rice](https://tokyofox.files.wordpress.com/2020/12/hedgehog-blue-curry-japan-10.jpg)!
 
 ### Small heading
 
