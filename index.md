@@ -1,4 +1,4 @@
-![PepoG](/Users/peterlu/Downloads/PepoG.png)
+![WokeG](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNhJwY6AfMbEcnKk1u5AnuHwRDJURdg4ALA&usqp=CAU)
 go to bottom? click
 [here](https://github.com/pthaha/CSE110/blob/add-index.md/index.md#small-heading)
 go to READ_ME? click [here](README.md)
